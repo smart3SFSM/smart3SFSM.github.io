@@ -1,0 +1,10 @@
+<map id="PlyFile" name="PlyFile">
+<area shape="rect" id="node2" href="$dc/df0/struct_ply_prop_rules.html" title="PlyPropRules Struct for rules for combining &quot;other&quot; properties. " alt="" coords="98,279,200,305"/>
+<area shape="rect" id="node3" href="$d4/df0/struct_ply_element.html" title="PlyElement Struct for description of an element. " alt="" coords="32,187,121,213"/>
+<area shape="rect" id="node4" href="$d4/d65/struct_ply_property.html" title="PlyProperty Struct for an description of a property. " alt="" coords="70,5,161,32"/>
+<area shape="rect" id="node8" href="$d9/d12/struct_ply_other_prop.html" title="PlyOtherProp Struct describes other properties in an element. " alt="" coords="139,96,238,123"/>
+<area shape="rect" id="node5" href="$d1/d27/struct_ply_other_elems.html" title="PlyOtherElems Struct &quot;other&quot; elements, not interpreted by user. " alt="" coords="224,279,334,305"/>
+<area shape="rect" id="node6" href="$db/de2/struct_other_elem.html" title="OtherElem Struct data for one &quot;other&quot; element. " alt="" coords="238,187,321,213"/>
+<area shape="rect" id="node7" href="$d9/d3d/struct_other_data.html" title="OtherData Struct rfor storing other_props for an other element. " alt="" coords="262,96,344,123"/>
+<area shape="rect" id="node9" href="$d8/d3e/struct_ply_rule_list.html" title="PlyRuleList Struct for an ply rule list. " alt="" coords="359,279,448,305"/>
+</map>

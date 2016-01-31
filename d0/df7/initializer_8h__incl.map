@@ -1,0 +1,26 @@
+<map id="smart3SFSM/Application/Initializer/initializer.h" name="smart3SFSM/Application/Initializer/initializer.h">
+<area shape="rect" id="node6" href="$d9/d53/mainwindow_8h.html" title="mainwindow.h" alt="" coords="1610,96,1715,123"/>
+<area shape="rect" id="node15" href="$d7/d7f/log_8h.html" title="Application/Log/log.h" alt="" coords="1381,517,1523,544"/>
+<area shape="rect" id="node20" href="$db/d96/date_8h.html" title="Application/utilities\l/date.h" alt="" coords="1396,742,1525,783"/>
+<area shape="rect" id="node21" href="$dc/d74/fileio_8h.html" title="System/FileIO/fileio.h" alt="" coords="2203,592,2351,619"/>
+<area shape="rect" id="node26" href="$dd/dd8/filesystem_8h.html" title="System/FileIO/filesystem.h" alt="" coords="2585,667,2767,693"/>
+<area shape="rect" id="node32" href="$dc/d2c/systemenvironment_8h.html" title="System/SystemCalls\l/systemenvironment.h" alt="" coords="1937,742,2087,783"/>
+<area shape="rect" id="node7" href="$da/da1/_stereo_calibration_window_8h.html" title="UI/StereoVision/StereoCalibration\lWindow.h" alt="" coords="368,427,587,469"/>
+<area shape="rect" id="node34" href="$d5/d33/_stereo_matching_window_8h.html" title="UI/StereoVision/StereoMatching\lWindow.h" alt="" coords="1490,427,1699,469"/>
+<area shape="rect" id="node35" href="$de/dc7/_main_window_camera_8h.html" title="UI/MultiCameraControl\l/MainWindowCamera.h" alt="" coords="3291,337,3449,378"/>
+<area shape="rect" id="node36" href="$dc/df4/_picture_selection_dialog_8h.html" title="UI/PictureSelection\l/PictureSelectionDialog.h" alt="" coords="3181,427,3349,469"/>
+<area shape="rect" id="node37" href="$d0/d44/_main_window_stereo_8h.html" title="UI/MultiCameraControl\l/MainWindowStereo.h" alt="" coords="3111,337,3267,378"/>
+<area shape="rect" id="node38" href="$da/df6/lsdslamui_8h.html" title="UI/Qt&#45;LSD&#45;Slam&#45;UI/lsdslamui.h" alt="" coords="1898,435,2104,461"/>
+<area shape="rect" id="node39" href="$d8/d98/kinectonethreadcontroller_8h.html" title="Controller/Kinect1\l/kinectonethreadcontroller.h" alt="" coords="978,427,1160,469"/>
+<area shape="rect" id="node40" href="$de/d43/kinectonecontroller_8h.html" title="Controller/Kinect1\l/kinectonecontroller.h" alt="" coords="1055,337,1201,378"/>
+<area shape="rect" id="node41" href="$df/d39/kinectwindow_8h.html" title="UI/Kinect/kinectwindow.h" alt="" coords="1180,179,1351,205"/>
+<area shape="rect" id="node42" href="$d5/dad/kinect1topc_8h.html" title="Workflow/Kinect1/kinect1topc.h" alt="" coords="1157,261,1363,288"/>
+<area shape="rect" id="node43" href="$d9/d5b/ransacui_8h.html" title="Workflow/SampleConsensus\lDetection/ransacui.h" alt="" coords="763,427,953,469"/>
+<area shape="rect" id="node44" href="$de/d27/converter_8h.html" title="UI/Converter/converter.h" alt="" coords="2181,435,2347,461"/>
+<area shape="rect" id="node45" href="$d6/df7/cameracalibrationui_8h.html" title="UI/CameraCalibration\l/cameracalibrationui.h" alt="" coords="1724,427,1872,469"/>
+<area shape="rect" id="node46" href="$d1/d64/registrationui_8h.html" title="Registration/registrationui.h" alt="" coords="2396,261,2577,288"/>
+<area shape="rect" id="node47" href="$d5/d47/cameracalibrationmainwindow_8h.html" title="UI/CameraCalibrationGui\l/cameracalibrationmainwindow.h" alt="" coords="2895,427,3104,469"/>
+<area shape="rect" id="node48" href="$de/db3/kinect__slam__gl_8h.html" title="Workflow/Kinect1/x\l/kinect_slam_gl.h" alt="" coords="1489,171,1624,213"/>
+<area shape="rect" id="node49" href="$d2/d8d/sfm__ui_8h.html" title="UI/SFM_UI/sfm_ui.h" alt="" coords="2677,435,2819,461"/>
+<area shape="rect" id="node14" href="$d8/df4/_stereo_calibration_8h.html" title="StereoVision/StereoCalibration.h" alt="" coords="449,517,659,544"/>
+</map>

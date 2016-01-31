@@ -1,0 +1,6 @@
+<map id="ProcessingThread" name="ProcessingThread">
+<area shape="rect" id="node3" href="$dd/d45/class_shared_image_buffer.html" title="The SharedImageBuffer class represents an image buffer that is shared between the CameraView objects ..." alt="" coords="146,56,281,83"/>
+<area shape="rect" id="node5" href="$d5/d56/struct_thread_statistics_data.html" title="The ThreadStatisticsData struct represents thread statistics data. " alt="" coords="141,107,286,133"/>
+<area shape="rect" id="node6" href="$de/da6/struct_image_processing_settings.html" title="The ImageProcessingSettings struct represents image processing parameter settings. " alt="" coords="128,157,299,184"/>
+<area shape="rect" id="node7" href="$d0/da7/struct_image_processing_flags.html" title="The ImageProcessingFlags struct represents image processing parameter flags. " alt="" coords="136,208,291,235"/>
+</map>

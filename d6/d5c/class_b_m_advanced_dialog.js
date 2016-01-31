@@ -1,0 +1,27 @@
+var class_b_m_advanced_dialog =
+[
+    [ "BMAdvancedDialog", "d6/d5c/class_b_m_advanced_dialog.html#aa786d26038bd795da6ac8a8a0c2c859e", null ],
+    [ "~BMAdvancedDialog", "d6/d5c/class_b_m_advanced_dialog.html#a56a2ebb33c12f3e0ff6a600b52343797", null ],
+    [ "accept", "d6/d5c/class_b_m_advanced_dialog.html#ab5a223ac4971815d8becb9c3dc76d491", null ],
+    [ "getDisparityMaxDifference", "d6/d5c/class_b_m_advanced_dialog.html#a0868669f9628e3cad2d5039bc201d488", null ],
+    [ "getMinDisparity", "d6/d5c/class_b_m_advanced_dialog.html#aedb63d6a43ed1075553b86970dadf70c", null ],
+    [ "getPreFilterCap", "d6/d5c/class_b_m_advanced_dialog.html#ad8a56e2439bab78a871066a12519cf9f", null ],
+    [ "getSADWindowSize", "d6/d5c/class_b_m_advanced_dialog.html#a929b2c1a8ddd8071afaca61c677a1701", null ],
+    [ "getSpeckleRange", "d6/d5c/class_b_m_advanced_dialog.html#a722f7f16b74ba3c5a32a045d30565807", null ],
+    [ "getSpeckleWindowSize", "d6/d5c/class_b_m_advanced_dialog.html#a530f619dec07e5c5181bb40239a01f85", null ],
+    [ "getTextureThreshold", "d6/d5c/class_b_m_advanced_dialog.html#a4a4be13d0b3086641cfb1db2821024e7", null ],
+    [ "getUniquenessRatio", "d6/d5c/class_b_m_advanced_dialog.html#a2da571fcbbaaea1024347e6a8e4e3fb5", null ],
+    [ "reject", "d6/d5c/class_b_m_advanced_dialog.html#ae00681d0b7f140a163e75677efe13e11", null ],
+    [ "resetParameters", "d6/d5c/class_b_m_advanced_dialog.html#a024617703c07eddb7236d9d741106225", null ],
+    [ "saveParameters", "d6/d5c/class_b_m_advanced_dialog.html#a519f413b2b2319bc4be5f8c32193233c", null ],
+    [ "validate", "d6/d5c/class_b_m_advanced_dialog.html#ad2f66a9bc67839864e5d8b06c5f4a3f1", null ],
+    [ "disparityMaxDifference", "d6/d5c/class_b_m_advanced_dialog.html#a4ba7c884f068125eba292b6c9a0569ce", null ],
+    [ "minDisparity", "d6/d5c/class_b_m_advanced_dialog.html#a8f7a326228c39a74aee978c9d5c14f5c", null ],
+    [ "preFilterCap", "d6/d5c/class_b_m_advanced_dialog.html#ac45614f03ba87ab69f213da5c851061f", null ],
+    [ "SADWindowSize", "d6/d5c/class_b_m_advanced_dialog.html#ac8496e0c1cab5a76491797dcc8576f6e", null ],
+    [ "speckleRange", "d6/d5c/class_b_m_advanced_dialog.html#aad008889c5efcee8d01147ddf2acfd8e", null ],
+    [ "speckleWindowSize", "d6/d5c/class_b_m_advanced_dialog.html#a707c854529d54e40ec3b433f971256a2", null ],
+    [ "textureThreshold", "d6/d5c/class_b_m_advanced_dialog.html#ad1afe05daa2c19e84142d004c1b5e738", null ],
+    [ "ui", "d6/d5c/class_b_m_advanced_dialog.html#a185b4db3e74f71bf3b83f3610593b0ee", null ],
+    [ "uniquenessRatio", "d6/d5c/class_b_m_advanced_dialog.html#a7654e9215e7095d318dc954b45c88fcb", null ]
+];

@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['name',['name',['../db/d02/struct_rule_name.html#a730723720fbf0dce06a6e26187ffdf46',1,'RuleName::name()'],['../d4/d65/struct_ply_property.html#a286f11ca61eb9eaa3c52a44bbaeadfc9',1,'PlyProperty::name()'],['../d4/df0/struct_ply_element.html#a851bfdee0489e67d5105d7f947dc7e35',1,'PlyElement::name()'],['../d9/d12/struct_ply_other_prop.html#a0804a82b034deb5e259996b8e9270d0c',1,'PlyOtherProp::name()'],['../d8/d3e/struct_ply_rule_list.html#acc2a474e66e3f872a1f98184be0875f3',1,'PlyRuleList::name()']]],
+  ['nametext',['nameText',['../db/dd0/class_clickable_label.html#a3e9b5f42cc8a955d24d023b19e014b85',1,'ClickableLabel']]],
+  ['narrived',['nArrived',['../dd/d45/class_shared_image_buffer.html#a1675c912289f64c33eb8e82ae3b6381a',1,'SharedImageBuffer']]],
+  ['next',['next',['../d8/d3e/struct_ply_rule_list.html#a6860d3d58a71ccb9040f1294988bee37',1,'PlyRuleList']]],
+  ['nframesprocessed',['nFramesProcessed',['../d5/d56/struct_thread_statistics_data.html#a376d442d71976b6b572450765b4a3cc7',1,'ThreadStatisticsData']]],
+  ['nodisplay',['noDisplay',['../d1/d04/class_stereo_matching.html#a4707dd8a69d492bcb31605f226e88d03',1,'StereoMatching::noDisplay()'],['../d1/d35/class_stereo_matching_window.html#ae220a93d31ff656eed8e01f7d126796c',1,'StereoMatchingWindow::noDisplay()']]],
+  ['not_5fready',['NOT_READY',['../d0/d2e/class_kinect1_to_p_c.html#ab3a32ffbc8bc2f1adb4c4485c76a8a9b',1,'Kinect1ToPC']]],
+  ['nprops',['nprops',['../d4/df0/struct_ply_element.html#af8251c4b09b4292a0529a7c7acfe7771',1,'PlyElement::nprops()'],['../d9/d12/struct_ply_other_prop.html#aebc7f753bbce55f355e5ade8568c35f7',1,'PlyOtherProp::nprops()'],['../dc/df0/struct_ply_prop_rules.html#a7c5e73f3165c78ca060d13cb6419a390',1,'PlyPropRules::nprops()']]],
+  ['num',['num',['../d4/df0/struct_ply_element.html#a3975c8d9bdd3b4435bca2cb6f7e99733',1,'PlyElement']]],
+  ['num_5fcomments',['num_comments',['../dd/db3/struct_ply_file.html#a033842a20f0620979d992898f6a52a14',1,'PlyFile']]],
+  ['num_5felem_5ftypes',['num_elem_types',['../dd/db3/struct_ply_file.html#af81efa2a4464d2c1547f350af9b8b236',1,'PlyFile']]],
+  ['num_5felems',['num_elems',['../d1/d27/struct_ply_other_elems.html#ab464cc630ef0f33b64474ddf9dd00d63',1,'PlyOtherElems']]],
+  ['num_5fobj_5finfo',['num_obj_info',['../dd/db3/struct_ply_file.html#aa1a8dc64805585240d50df3192854d18',1,'PlyFile']]],
+  ['numberofdevices',['numberOfDevices',['../d8/d4f/class_kinect_one_controller.html#a7db187fa1c322b156e5b1a4d85db6e2e',1,'KinectOneController']]],
+  ['numberofiterations',['numberOfIterations',['../d1/d04/class_stereo_matching.html#a3e1908c6b9838d40b9f14252d79dc9c2',1,'StereoMatching::numberOfIterations()'],['../d1/d35/class_stereo_matching_window.html#a2e1c54bfde46462e3d11f5dc59628958',1,'StereoMatchingWindow::numberOfIterations()'],['../dc/d15/class_v_a_r_advanced_dialog.html#a8f15f63e8521bcc834384d519004b2d5',1,'VARAdvancedDialog::numberOfIterations()']]],
+  ['numberofsavedimages',['numberOfSavedImages',['../d6/de9/class_capture_thread.html#aadbf68b3abfa60f092a25d91f719caa9',1,'CaptureThread']]],
+  ['numberofsavedimagessynced',['numberOfSavedImagesSynced',['../dd/d45/class_shared_image_buffer.html#ade33efd77d8868001aef59c273573750',1,'SharedImageBuffer']]]
+];

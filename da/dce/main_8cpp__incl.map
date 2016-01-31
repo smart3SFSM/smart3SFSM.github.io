@@ -1,0 +1,34 @@
+<map id="smart3SFSM/main.cpp" name="smart3SFSM/main.cpp">
+<area shape="rect" id="node2" href="$d9/d53/mainwindow_8h.html" title="mainwindow.h" alt="" coords="2281,171,2385,197"/>
+<area shape="rect" id="node48" href="$d8/df5/initializer_8h.html" title="Application/Initializer\l/initializer.h" alt="" coords="3765,81,3907,122"/>
+<area shape="rect" id="node50" href="$d2/ddc/test_8h.html" title="Test/test.h" alt="" coords="4021,509,4107,536"/>
+<area shape="rect" id="node5" href="$da/da1/_stereo_calibration_window_8h.html" title="UI/StereoVision/StereoCalibration\lWindow.h" alt="" coords="3005,502,3224,543"/>
+<area shape="rect" id="node14" href="$d7/d7f/log_8h.html" title="Application/Log/log.h" alt="" coords="3137,592,3279,619"/>
+<area shape="rect" id="node22" href="$d5/d33/_stereo_matching_window_8h.html" title="UI/StereoVision/StereoMatching\lWindow.h" alt="" coords="1061,502,1269,543"/>
+<area shape="rect" id="node29" href="$de/dc7/_main_window_camera_8h.html" title="UI/MultiCameraControl\l/MainWindowCamera.h" alt="" coords="249,411,407,453"/>
+<area shape="rect" id="node33" href="$dc/df4/_picture_selection_dialog_8h.html" title="UI/PictureSelection\l/PictureSelectionDialog.h" alt="" coords="754,502,923,543"/>
+<area shape="rect" id="node34" href="$d0/d44/_main_window_stereo_8h.html" title="UI/MultiCameraControl\l/MainWindowStereo.h" alt="" coords="507,411,663,453"/>
+<area shape="rect" id="node35" href="$da/df6/lsdslamui_8h.html" title="UI/Qt&#45;LSD&#45;Slam&#45;UI/lsdslamui.h" alt="" coords="2363,509,2569,536"/>
+<area shape="rect" id="node36" href="$d8/d98/kinectonethreadcontroller_8h.html" title="Controller/Kinect1\l/kinectonethreadcontroller.h" alt="" coords="2646,502,2828,543"/>
+<area shape="rect" id="node37" href="$de/d43/kinectonecontroller_8h.html" title="Controller/Kinect1\l/kinectonecontroller.h" alt="" coords="2683,411,2829,453"/>
+<area shape="rect" id="node38" href="$df/d39/kinectwindow_8h.html" title="UI/Kinect/kinectwindow.h" alt="" coords="2759,245,2929,272"/>
+<area shape="rect" id="node39" href="$d5/dad/kinect1topc_8h.html" title="Workflow/Kinect1/kinect1topc.h" alt="" coords="2863,328,3069,355"/>
+<area shape="rect" id="node40" href="$d9/d5b/ransacui_8h.html" title="Workflow/SampleConsensus\lDetection/ransacui.h" alt="" coords="3502,502,3692,543"/>
+<area shape="rect" id="node42" href="$de/d27/converter_8h.html" title="UI/Converter/converter.h" alt="" coords="2173,509,2339,536"/>
+<area shape="rect" id="node43" href="$d6/df7/cameracalibrationui_8h.html" title="UI/CameraCalibration\l/cameracalibrationui.h" alt="" coords="1999,502,2147,543"/>
+<area shape="rect" id="node44" href="$d1/d64/registrationui_8h.html" title="Registration/registrationui.h" alt="" coords="1396,245,1577,272"/>
+<area shape="rect" id="node45" href="$d5/d47/cameracalibrationmainwindow_8h.html" title="UI/CameraCalibrationGui\l/cameracalibrationmainwindow.h" alt="" coords="1599,502,1808,543"/>
+<area shape="rect" id="node46" href="$de/db3/kinect__slam__gl_8h.html" title="Workflow/Kinect1/x\l/kinect_slam_gl.h" alt="" coords="2447,321,2581,362"/>
+<area shape="rect" id="node47" href="$d2/d8d/sfm__ui_8h.html" title="UI/SFM_UI/sfm_ui.h" alt="" coords="1833,509,1975,536"/>
+<area shape="rect" id="node13" href="$d8/df4/_stereo_calibration_8h.html" title="StereoVision/StereoCalibration.h" alt="" coords="3987,592,4196,619"/>
+<area shape="rect" id="node20" href="$dd/dd8/filesystem_8h.html" title="System/FileIO/filesystem.h" alt="" coords="2640,741,2821,768"/>
+<area shape="rect" id="node21" href="$dc/d2c/systemenvironment_8h.html" title="System/SystemCalls\l/systemenvironment.h" alt="" coords="1890,817,2040,858"/>
+<area shape="rect" id="node18" href="$db/d96/date_8h.html" title="Application/utilities\l/date.h" alt="" coords="3259,817,3388,858"/>
+<area shape="rect" id="node19" href="$dc/d74/fileio_8h.html" title="System/FileIO/fileio.h" alt="" coords="2657,667,2804,693"/>
+<area shape="rect" id="node24" href="$d9/dec/_b_m_advanced_dialog_8h.html" title="BMAdvancedDialog.h" alt="" coords="1106,592,1253,619"/>
+<area shape="rect" id="node25" href="$d3/dda/_s_g_b_m_advanced_dialog_8h.html" title="SGBMAdvancedDialog.h" alt="" coords="1278,592,1444,619"/>
+<area shape="rect" id="node26" href="$de/d41/_v_a_r_advanced_dialog_8h.html" title="VARAdvancedDialog.h" alt="" coords="1521,592,1676,619"/>
+<area shape="rect" id="node27" href="$d3/d61/_a_d_census_advanced_dialog_8h.html" title="ADCensusAdvancedDialog.h" alt="" coords="889,592,1081,619"/>
+<area shape="rect" id="node28" href="$dd/d02/_stereo_matching_8h.html" title="StereoVision/StereoMatching.h" alt="" coords="3709,592,3912,619"/>
+<area shape="rect" id="node32" href="$db/d29/_camera_connect_dialog_8h.html" title="CameraConnectDialog.h" alt="" coords="245,509,409,536"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="smart3SFSM/Controller/Kinect1/kinectonecontroller.h" name="smart3SFSM/Controller/Kinect1/kinectonecontroller.h">
+<area shape="rect" id="node2" href="$d5/dd1/kinectonecontroller_8cpp.html" title="smart3SFSM/Controller\l/Kinect1/kinectonecontroller.cpp" alt="" coords="5,97,213,138"/>
+<area shape="rect" id="node3" href="$d9/d53/mainwindow_8h.html" title="smart3SFSM/mainwindow.h" alt="" coords="208,285,395,312"/>
+<area shape="rect" id="node8" href="$df/d39/kinectwindow_8h.html" title="smart3SFSM/UI/Kinect\l/kinectwindow.h" alt="" coords="530,187,688,229"/>
+<area shape="rect" id="node10" href="$d5/dad/kinect1topc_8h.html" title="smart3SFSM/Workflow\l/Kinect1/kinect1topc.h" alt="" coords="343,97,501,138"/>
+<area shape="rect" id="node12" href="$d5/de5/qglkinectwidget_8h.html" title="smart3SFSM/UI/Kinect\l/qglkinectwidget.h" alt="" coords="662,97,820,138"/>
+<area shape="rect" id="node4" href="$d8/df5/initializer_8h.html" title="smart3SFSM/Application\l/Initializer/initializer.h" alt="" coords="97,369,263,410"/>
+<area shape="rect" id="node6" href="$df/d0a/main_8cpp.html" title="smart3SFSM/main.cpp" alt="" coords="223,467,379,493"/>
+<area shape="rect" id="node7" href="$d8/dd9/mainwindow_8cpp.html" title="smart3SFSM/mainwindow.cpp" alt="" coords="339,376,537,403"/>
+<area shape="rect" id="node5" href="$d5/de2/initializer_8cpp.html" title="smart3SFSM/Application\l/Initializer/initializer.cpp" alt="" coords="33,459,199,501"/>
+<area shape="rect" id="node9" href="$d5/dfd/kinectwindow_8cpp.html" title="smart3SFSM/UI/Kinect\l/kinectwindow.cpp" alt="" coords="530,278,688,319"/>
+<area shape="rect" id="node11" href="$df/d8d/kinect1topc_8cpp.html" title="smart3SFSM/Workflow\l/Kinect1/kinect1topc.cpp" alt="" coords="339,187,505,229"/>
+<area shape="rect" id="node13" href="$d4/dff/qglkinectwidget_8cpp.html" title="smart3SFSM/UI/Kinect\l/qglkinectwidget.cpp" alt="" coords="713,187,871,229"/>
+</map>

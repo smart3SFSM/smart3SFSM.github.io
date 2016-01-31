@@ -1,0 +1,28 @@
+var class_scanline_optimization =
+[
+    [ "ScanlineOptimization", "da/dfc/class_scanline_optimization.html#a7b219b394d4e75b4279cf0eee47539f2", null ],
+    [ "~ScanlineOptimization", "da/dfc/class_scanline_optimization.html#a180df596b494905a7e675144af5ecfc4", null ],
+    [ "colorDiff", "da/dfc/class_scanline_optimization.html#af377e149ec6721b6874018c54b536ac7", null ],
+    [ "computeP1P2", "da/dfc/class_scanline_optimization.html#a073973e292dc9727cbfa8ba93afdd0ec", null ],
+    [ "horizontalComputation", "da/dfc/class_scanline_optimization.html#ae82489e820e27eeb8413eedd54477044", null ],
+    [ "horizontalOptimization", "da/dfc/class_scanline_optimization.html#afe472dab4dcf901fea67df5a7cf26935", null ],
+    [ "logToInfo", "da/dfc/class_scanline_optimization.html#a192113b09a5563b9d9650f535bdd15bf", null ],
+    [ "logToNegative", "da/dfc/class_scanline_optimization.html#acdd0f894e5614a8463218ef601fbed12", null ],
+    [ "logToPositive", "da/dfc/class_scanline_optimization.html#a20b4831146a3236b24d183058c7754f9", null ],
+    [ "logToStatus", "da/dfc/class_scanline_optimization.html#adb621a9b6f184a979d767cc21f894319", null ],
+    [ "optimization", "da/dfc/class_scanline_optimization.html#a377aa7d8d257d24ab1314a7850803b5d", null ],
+    [ "partialOptimization", "da/dfc/class_scanline_optimization.html#a53739d2b8d0bef8a99ee812168696e42", null ],
+    [ "verticalComputation", "da/dfc/class_scanline_optimization.html#a990bdd4f8f00dc8a7568b5cb96799314", null ],
+    [ "verticalOptimization", "da/dfc/class_scanline_optimization.html#a73b19b38886c01b23317ca606bd6502c", null ],
+    [ "colorDifference", "da/dfc/class_scanline_optimization.html#aeaecabb3ea19ddb6b285f9ca3c559ce4", null ],
+    [ "dMax", "da/dfc/class_scanline_optimization.html#a8fa512317077f3f7b2117bc76ad60072", null ],
+    [ "dMin", "da/dfc/class_scanline_optimization.html#a594661d1e2aeedac1d67dc711b540a12", null ],
+    [ "images", "da/dfc/class_scanline_optimization.html#a859448cfea2c5f88828aef2cbe37514d", null ],
+    [ "imgSize", "da/dfc/class_scanline_optimization.html#a0191db01057bf5a839e12ceee4b7eb87", null ],
+    [ "pi1", "da/dfc/class_scanline_optimization.html#a64300f35e28b1f361f87ddf33a6fd9d9", null ],
+    [ "pi2", "da/dfc/class_scanline_optimization.html#aeca0efb28d898e8772b21dd171f6bc4c", null ],
+    [ "STR_LOG_START_HORIZONTAL_LEFTWARD", "da/dfc/class_scanline_optimization.html#adcbb9572b91e4de910388ee32b7f9553", null ],
+    [ "STR_LOG_START_HORIZONTAL_RIGHTWARD", "da/dfc/class_scanline_optimization.html#a4e80a78c6f4a9483e334ce6aad2955e2", null ],
+    [ "STR_LOG_START_VERTICAL_DOWNWARD", "da/dfc/class_scanline_optimization.html#a47f7caefd025e623f00d827f573c655a", null ],
+    [ "STR_LOG_START_VERTICAL_UPWARD", "da/dfc/class_scanline_optimization.html#a58f0edcd5511c2052c58ce69b72fd747", null ]
+];

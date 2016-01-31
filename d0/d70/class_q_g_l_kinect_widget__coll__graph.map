@@ -1,0 +1,6 @@
+<map id="QGLKinectWidget" name="QGLKinectWidget">
+<area shape="rect" id="node3" href="$d6/d70/class_log.html" title="The Log class Administrate all log outputs. " alt="" coords="173,96,216,123"/>
+<area shape="rect" id="node5" href="$d8/d4f/class_kinect_one_controller.html" title="The KinectOneController class is a wrapper for the Kinect 1 funktions It uses the libfreenect library..." alt="" coords="199,277,337,304"/>
+<area shape="rect" id="node7" href="$d0/d9a/class_kinect_one_thread_controller.html" title="The KinectOneThreadController class Thred fuer den KinectOneController, uebrwacht den Treiber auf Sig..." alt="" coords="355,187,533,213"/>
+<area shape="rect" id="node4" href="$de/db5/class_date.html" title="The Date class is for simple date and time formats. " alt="" coords="169,5,220,32"/>
+</map>
