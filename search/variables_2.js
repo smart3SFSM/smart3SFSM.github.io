@@ -61,7 +61,6 @@ var searchData=
   ['context',['context',['../d8/d4f/class_kinect_one_controller.html#acc89709a228e4507d8a964a081daeaa4',1,'KinectOneController::context()'],['../d0/d9a/class_kinect_one_thread_controller.html#a36b4d40334ad01494ae53c53ab4a097e',1,'KinectOneThreadController::context()']]],
   ['convert_5fproc_5fname_5fto_5fpcd',['CONVERT_PROC_NAME_TO_PCD',['../d3/d60/class_ply_converter.html#a738d402b28902376763b86dffc81e2a3',1,'PlyConverter']]],
   ['copy_5fpath',['COPY_PATH',['../d6/da7/class_camerea_calibration_u_i.html#a3acde95d0af7d2e26512dd273ff0d215',1,'CamereaCalibrationUI::COPY_PATH()'],['../dd/d81/class_l_s_d_slam_u_i.html#a02d30efecaec91b3b940afb80b780d84',1,'LSDSlamUI::COPY_PATH()']]],
-  ['cost_5ffactor',['COST_FACTOR',['../db/d1f/_common_8h.html#a61c423185849d0c41085a84845929f91',1,'Common.h']]],
   ['costmaps',['costMaps',['../d3/dc3/class_stereo_processor.html#a55dd2cda332c2ca7925bc93c61a862a8',1,'StereoProcessor']]],
   ['count_5fexternal',['count_external',['../d4/d65/struct_ply_property.html#a237469e443b4a87444ce5e21512b2649',1,'PlyProperty']]],
   ['count_5finternal',['count_internal',['../d4/d65/struct_ply_property.html#a3d8a82157e2863a19b63886a3488cc64',1,'PlyProperty']]],

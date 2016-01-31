@@ -1,9 +1,4 @@
 <map id="smart3SFSM/Registration" name="smart3SFSM/Registration">
-<area shape="rect" id="node1" href="dir_1a483c2f6ec40be8398609fd3ca9f158.html" title="Registration" alt="" coords="31,52,123,100"/>
-<area shape="rect" id="node2" href="dir_0fc2d15e1807e672276089e3dbf67eca.html" title="UI" alt="" coords="5,148,77,196"/>
-<area shape="rect" id="edge2-headlabel" href="dir_000010_000005.html" title="1" alt="" coords="61,127,69,141"/>
-<area shape="rect" id="node3" href="dir_1c6d93a8ad23c399566fceaa595674d9.html" title="System" alt="" coords="41,244,113,292"/>
-<area shape="rect" id="edge3-headlabel" href="dir_000010_000013.html" title="1" alt="" coords="90,220,98,235"/>
-<area shape="rect" id="edge1-headlabel" href="dir_000005_000013.html" title="23" alt="" coords="63,217,77,231"/>
-<area shape="rect" id="clust1" href="dir_7899598d7e76b697a2869ba061f27c4f.html" title="smart3SFSM" alt="" coords="20,16,135,111"/>
+<area shape="rect" id="node1" href="dir_1a483c2f6ec40be8398609fd3ca9f158.html" title="Registration" alt="" coords="27,52,117,100"/>
+<area shape="rect" id="clust1" href="dir_7899598d7e76b697a2869ba061f27c4f.html" title="smart3SFSM" alt="" coords="16,16,128,111"/>
 </map>

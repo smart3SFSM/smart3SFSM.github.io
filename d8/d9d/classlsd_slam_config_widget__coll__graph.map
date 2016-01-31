@@ -1,4 +1,4 @@
 <map id="lsdSlamConfigWidget" name="lsdSlamConfigWidget">
-<area shape="rect" id="node5" href="$d7/dc2/class_lsd_slam_config_spinner.html" title="The LsdSlamConfigSpinner class contains the UI and logic for LSD&#45;SLAM configurations (pinnhole..." alt="" coords="41,83,195,109"/>
-<area shape="rect" id="node3" href="$d6/df4/classown_double_spin_box.html" title="Subclass from QDoubleSpinBox to get a variable length of digits. The default behavior is to force x d..." alt="" coords="220,83,355,109"/>
+<area shape="rect" id="node5" href="$d7/dc2/class_lsd_slam_config_spinner.html" title="The LsdSlamConfigSpinner class contains the UI and logic for LSD&#45;SLAM configurations (pinnhole..." alt="" coords="43,81,196,108"/>
+<area shape="rect" id="node3" href="$d6/df4/classown_double_spin_box.html" title="Subclass from QDoubleSpinBox to get a variable length of digits. The default behavior is to force x d..." alt="" coords="220,81,355,108"/>
 </map>

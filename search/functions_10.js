@@ -2,12 +2,10 @@ var searchData=
 [
   ['ransac_5forientation',['ransac_orientation',['../d0/d58/classkinect__slam_1_1_c_tracking_module.html#a3c29115acd8497a698b6dc125940755b',1,'kinect_slam::CTrackingModule']]],
   ['ransacui',['RansacUI',['../d0/d3a/class_ransac_u_i.html#a94eca37412459bb4b2199a171cfc7a0f',1,'RansacUI']]],
-  ['read_5fply',['read_ply',['../d4/dff/ply_8c.html#aa2c261de622a99ed2ebddbc123c32233',1,'read_ply(FILE *fp):&#160;ply.c'],['../d9/d23/ply_8h.html#a76f13165e506ed3c8ebb3134c6df61ac',1,'read_ply(FILE *):&#160;ply.c']]],
   ['readerroroutput',['readErrorOutput',['../d2/dce/class_process_manager.html#a038e06fc036fb6a4045ec0fb74f2db44',1,'ProcessManager']]],
   ['readpipe',['readPipe',['../d0/d4a/class_lib_video.html#a3f15604e666f3b212abe697cb698c271',1,'LibVideo']]],
   ['readstandardoutput',['readStandardOutput',['../d2/dce/class_process_manager.html#acbffe38dcb87d6f6390ab310faf473ae',1,'ProcessManager']]],
   ['readstringlist',['readStringList',['../d9/dcd/class_stereo_calibration.html#a225f29e639bbf78720a7559c65d77f31',1,'StereoCalibration']]],
-  ['recreate_5fcommand_5fline',['recreate_command_line',['../d4/dff/ply_8c.html#aef39c9532ca3cbef828b70aa1b031bf2',1,'recreate_command_line(int argc, char *argv[]):&#160;ply.c'],['../d9/d23/ply_8h.html#ab8faf6b0ea645482b76b33bee4a7f0c3',1,'recreate_command_line(int, char *argv[]):&#160;ply.c']]],
   ['rectifiedchanged',['rectifiedChanged',['../d1/d35/class_stereo_matching_window.html#a5e45c28906f3fe8d5bd4796a82dcc103',1,'StereoMatchingWindow']]],
   ['refresh',['refresh',['../de/d5e/classkinect__slam_1_1_c_u_i_module.html#a7f3a6335871aa25436e02fc5265a6cd2',1,'kinect_slam::CUIModule']]],
   ['refreshcameras',['refreshCameras',['../d6/da7/class_camerea_calibration_u_i.html#a0812f1a0e81c955405e5ef9b7155377d',1,'CamereaCalibrationUI::refreshCameras()'],['../dd/d81/class_l_s_d_slam_u_i.html#a20d334bbe957303f011e6bec52582206',1,'LSDSlamUI::refreshCameras()']]],

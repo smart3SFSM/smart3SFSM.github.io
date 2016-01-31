@@ -1,7 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node2" href="$dd/dc1/class_camera_calibration_widget.html" title="CameraCalibrationWidget" alt="" coords="128,5,299,32"/>
-<area shape="rect" id="node3" href="$dc/ded/class_camera_view.html" title="The CameraView class represents the UI for a connected camera. " alt="" coords="165,56,262,83"/>
-<area shape="rect" id="node4" href="$d7/dc2/class_lsd_slam_config_spinner.html" title="The LsdSlamConfigSpinner class contains the UI and logic for LSD&#45;SLAM configurations (pinnhole..." alt="" coords="136,107,291,133"/>
-<area shape="rect" id="node5" href="$dc/d2a/classlsd_slam_config_widget.html" title="The lsdSlamConfigWidget class is the main UI&#45;class from the LSD&#45;SLAM configurations. " alt="" coords="139,157,287,184"/>
-<area shape="rect" id="node6" href="$d4/df2/class_pcd_list_widget_item.html" title="PcdListWidgetItem" alt="" coords="147,208,280,235"/>
+<area shape="rect" id="node2" href="$dd/dc1/class_camera_calibration_widget.html" title="CameraCalibrationWidget" alt="" coords="127,5,296,32"/>
+<area shape="rect" id="node3" href="$dc/ded/class_camera_view.html" title="The CameraView class represents the UI for a connected camera. " alt="" coords="164,56,259,83"/>
+<area shape="rect" id="node4" href="$d7/dc2/class_lsd_slam_config_spinner.html" title="The LsdSlamConfigSpinner class contains the UI and logic for LSD&#45;SLAM configurations (pinnhole..." alt="" coords="135,107,288,133"/>
+<area shape="rect" id="node5" href="$dc/d2a/classlsd_slam_config_widget.html" title="The lsdSlamConfigWidget class is the main UI&#45;class from the LSD&#45;SLAM configurations. " alt="" coords="138,157,285,184"/>
+<area shape="rect" id="node6" href="$d4/df2/class_pcd_list_widget_item.html" title="PcdListWidgetItem" alt="" coords="145,208,277,235"/>
 </map>

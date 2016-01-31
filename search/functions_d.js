@@ -53,7 +53,6 @@ var searchData=
   ['on_5fstartbutton_5fclicked',['on_startButton_clicked',['../dd/dde/class_kinect_window.html#add04061008563297319fe800f4baa664',1,'KinectWindow']]],
   ['on_5fstartkinectslambutton_5fclicked',['on_startKinectSLAMButton_clicked',['../d9/dc6/class_main_window.html#a3043f3541c8b1f17587abf1cc022a2e3',1,'MainWindow']]],
   ['onmousemoveevent',['onMouseMoveEvent',['../d0/d16/class_frame_label.html#abc3c8d443a53cfe1f916fdb039b9b808',1,'FrameLabel']]],
-  ['open_5ffor_5fwriting_5fply',['open_for_writing_ply',['../d4/dff/ply_8c.html#a8f04e157c527fbd5d9251b21de3598e5',1,'open_for_writing_ply(char *filename, int nelems, char **elem_names, int file_type):&#160;ply.c'],['../d9/d23/ply_8h.html#ab039a91f178eda621a30ad100cd454f2',1,'open_for_writing_ply(char *, int, char **, int):&#160;ply.c']]],
   ['openpcdfile',['OpenPcdFile',['../d7/d4d/class_registration_ui.html#ae26590f807cb4c77854a400622d9cef8',1,'RegistrationUi']]],
   ['openselectpictures',['openSelectPictures',['../dc/da9/class_main_window_camera.html#a41aef3589b72e6278a20de7df2b7e0e3',1,'MainWindowCamera']]],
   ['operate',['operate',['../d0/d2e/class_kinect1_to_p_c.html#acff19d840af25040e90f66d46f341d2e',1,'Kinect1ToPC']]],

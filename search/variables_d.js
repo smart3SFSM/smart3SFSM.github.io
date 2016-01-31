@@ -6,7 +6,6 @@ var searchData=
   ['observerstreaming',['observerStreaming',['../dd/d81/class_l_s_d_slam_u_i.html#a65b950dde7710f145105196ede82c5b2',1,'LSDSlamUI']]],
   ['occlusionvalue',['occlusionValue',['../d5/d71/class_disparity_refinement.html#aa45ab4af99d65fa0f4d4c6ccc3b49f37',1,'DisparityRefinement']]],
   ['offset',['offset',['../d4/d65/struct_ply_property.html#aeedc40380a29a69699ce401f4cb7aa3f',1,'PlyProperty']]],
-  ['old_5ftype_5fnames',['old_type_names',['../d4/dff/ply_8c.html#ac2fdc6c03870284826e8dd57937242db',1,'ply.c']]],
   ['opticalcenterpixelx',['opticalCenterPixelX',['../de/d10/class_camera_calibration_i_o.html#ad970769d2f24fa2afc5c2993d97c0f6e',1,'CameraCalibrationIO']]],
   ['opticalcenterpixely',['opticalCenterPixelY',['../de/d10/class_camera_calibration_i_o.html#a8f62725cd0eb56150f7bf0c21ab80bd9',1,'CameraCalibrationIO']]],
   ['other_5fdata',['other_data',['../db/de2/struct_other_elem.html#a3dec65c2ba1b4c206ac9f3d02ec4b935',1,'OtherElem']]],

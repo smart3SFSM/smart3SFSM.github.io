@@ -6,14 +6,6 @@ var searchData=
   ['partialoptimization',['partialOptimization',['../da/dfc/class_scanline_optimization.html#a53739d2b8d0bef8a99ee812168696e42',1,'ScanlineOptimization']]],
   ['pcdlistwidgetitem',['PcdListWidgetItem',['../d4/df2/class_pcd_list_widget_item.html#ae6b0b194f188ded375f583b913adcb71',1,'PcdListWidgetItem']]],
   ['pictureselectiondialog',['PictureSelectionDialog',['../d0/db5/class_picture_selection_dialog.html#a23dbd895a062aaa565f29cb6eccc8bc4',1,'PictureSelectionDialog']]],
-  ['ply_5fclose',['ply_close',['../d4/dff/ply_8c.html#ad14535d1de183f78fe98150c30d09e85',1,'ply.c']]],
-  ['ply_5fdescribe_5fproperty',['ply_describe_property',['../d4/dff/ply_8c.html#a8e8bbaaa3930bfd3964762d0166c883e',1,'ply_describe_property(PlyFile *plyfile, char *elem_name, PlyProperty *prop):&#160;ply.c'],['../d9/d23/ply_8h.html#a67ce1fa4d355bdb5f00e60fc69c6a559',1,'ply_describe_property(PlyFile *, char *, PlyProperty *):&#160;ply.c']]],
-  ['ply_5fget_5felement',['ply_get_element',['../d4/dff/ply_8c.html#ae51679722b066ca3c93dc19140de8691',1,'ply_get_element(PlyFile *plyfile, void *elem_ptr):&#160;ply.c'],['../d9/d23/ply_8h.html#ab5087b8b10ba27abefae1fb0059253be',1,'ply_get_element(PlyFile *, void *):&#160;ply.c']]],
-  ['ply_5fget_5fother_5fproperties',['ply_get_other_properties',['../d4/dff/ply_8c.html#a83f55e28442dba3970e4641263a73655',1,'ply.c']]],
-  ['ply_5fget_5fproperty',['ply_get_property',['../d4/dff/ply_8c.html#aa2918a3353aa55e215ffacaf3dee89ca',1,'ply_get_property(PlyFile *plyfile, char *elem_name, PlyProperty *prop):&#160;ply.c'],['../d9/d23/ply_8h.html#ad8a336361a39ef56e16d66a2e519a8b0',1,'ply_get_property(PlyFile *, char *, PlyProperty *):&#160;ply.c']]],
-  ['ply_5fopen_5ffor_5freading',['ply_open_for_reading',['../d4/dff/ply_8c.html#af6ff071ecdc41fefb8072b535f88ee6e',1,'ply.c']]],
-  ['ply_5fread',['ply_read',['../d4/dff/ply_8c.html#a2ff2b6ad5279e0018a8115e7b5ac51c9',1,'ply.c']]],
-  ['ply_5fwrite',['ply_write',['../d4/dff/ply_8c.html#ad7bfc60c4ad8a1866abd60d4fe869c4f',1,'ply.c']]],
   ['point2rgb',['point2rgb',['../d5/d71/classkinect__slam_1_1_c_kinect_calibration.html#a84b711d0fe11c7a228f402bd04fe2827',1,'kinect_slam::CKinectCalibration']]],
   ['pointcloudviewer',['PointCloudViewer',['../d8/de8/class_point_cloud_viewer.html#a50f2629fe31825f2bf72ccc36327ec78',1,'PointCloudViewer']]],
   ['prepare',['prepare',['../d5/d7f/class_kinect1_to_p_c_d_worker.html#a1e34f3842d4f8c9d65982e4995b3a5aa',1,'Kinect1ToPCDWorker::prepare()'],['../d0/d2e/class_kinect1_to_p_c.html#a02d14e9d32e9b7dadc27c52d51c9f207',1,'Kinect1ToPC::prepare()']]],
@@ -25,8 +17,5 @@ var searchData=
   ['processmanager',['ProcessManager',['../d2/dce/class_process_manager.html#a41b83a8ef0a801ca3aee9a3d82568ac1',1,'ProcessManager']]],
   ['processvideo',['processVideo',['../d8/d4f/class_kinect_one_controller.html#a730662850bf8e3bde9412d414195cc14',1,'KinectOneController']]],
   ['profilescomboboxindexchanged',['ProfilesComboBoxIndexChanged',['../d7/d4d/class_registration_ui.html#af3c156637fdff77bee0da976941838eb',1,'RegistrationUi']]],
-  ['properinterpolation',['properInterpolation',['../d5/d71/class_disparity_refinement.html#ad248f7663d52b5b8429bbc8f509bdd6a',1,'DisparityRefinement::properInterpolation()'],['../d3/dc3/class_stereo_processor.html#ac536ea7bfae51b930d75303fddd87ae4',1,'StereoProcessor::properInterpolation()']]],
-  ['put_5felement_5fply',['put_element_ply',['../d4/dff/ply_8c.html#ab250505fa8656d8f7f1657a88ad331a7',1,'put_element_ply(PlyFile *plyfile, void *elem_ptr):&#160;ply.c'],['../d9/d23/ply_8h.html#aa41856321252c6c50506f4781ad622e8',1,'put_element_ply(PlyFile *, void *):&#160;ply.c']]],
-  ['put_5felement_5fsetup_5fply',['put_element_setup_ply',['../d4/dff/ply_8c.html#acfd238de6cbd4f4fd90b7d2a0fd11c9b',1,'put_element_setup_ply(PlyFile *plyfile, char *elem_name):&#160;ply.c'],['../d9/d23/ply_8h.html#ad10f74656cb5efb157e316756e96a020',1,'put_element_setup_ply(PlyFile *, char *):&#160;ply.c']]],
-  ['put_5fother_5felements_5fply',['put_other_elements_ply',['../d4/dff/ply_8c.html#afdb6b42716eb462d4a3948c88bf6badf',1,'put_other_elements_ply(PlyFile *plyfile):&#160;ply.c'],['../d9/d23/ply_8h.html#a90c7deda1818105ae8e35402820bb899',1,'put_other_elements_ply(PlyFile *):&#160;ply.c']]]
+  ['properinterpolation',['properInterpolation',['../d5/d71/class_disparity_refinement.html#ad248f7663d52b5b8429bbc8f509bdd6a',1,'DisparityRefinement::properInterpolation()'],['../d3/dc3/class_stereo_processor.html#ac536ea7bfae51b930d75303fddd87ae4',1,'StereoProcessor::properInterpolation()']]]
 ];

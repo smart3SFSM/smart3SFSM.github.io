@@ -1,8 +1,8 @@
 <map id="KinectWindow" name="KinectWindow">
-<area shape="rect" id="node3" href="$d6/d70/class_log.html" title="The Log class Administrate all log outputs. " alt="" coords="299,96,341,123"/>
-<area shape="rect" id="node5" href="$d0/d2e/class_kinect1_to_p_c.html" title="The Kinect1ToPC class Controller abstrahiert von der funktionalen Verarbeitung im Workflow..." alt="" coords="199,459,299,485"/>
-<area shape="rect" id="node7" href="$d5/d7f/class_kinect1_to_p_c_d_worker.html" title="The Kinect1ToPCDWorker class Der Thred in dem alle Berechnungen zum Erstellen einer Pointcloud aus Da..." alt="" coords="300,368,452,395"/>
-<area shape="rect" id="node8" href="$d8/d4f/class_kinect_one_controller.html" title="The KinectOneController class is a wrapper for the Kinect 1 funktions It uses the libfreenect library..." alt="" coords="413,277,552,304"/>
-<area shape="rect" id="node9" href="$d0/d9a/class_kinect_one_thread_controller.html" title="The KinectOneThreadController class Thred fuer den KinectOneController, uebrwacht den Treiber auf Sig..." alt="" coords="541,187,720,213"/>
+<area shape="rect" id="node3" href="$d6/d70/class_log.html" title="The Log class Administrate all log outputs. " alt="" coords="299,95,341,121"/>
+<area shape="rect" id="node5" href="$d0/d2e/class_kinect1_to_p_c.html" title="The Kinect1ToPC class Controller abstrahiert von der funktionalen Verarbeitung im Workflow..." alt="" coords="200,452,299,479"/>
+<area shape="rect" id="node7" href="$d5/d7f/class_kinect1_to_p_c_d_worker.html" title="The Kinect1ToPCDWorker class Der Thred in dem alle Berechnungen zum Erstellen einer Pointcloud aus Da..." alt="" coords="300,363,449,389"/>
+<area shape="rect" id="node8" href="$d8/d4f/class_kinect_one_controller.html" title="The KinectOneController class is a wrapper for the Kinect 1 funktions It uses the libfreenect library..." alt="" coords="412,273,551,300"/>
+<area shape="rect" id="node9" href="$d0/d9a/class_kinect_one_thread_controller.html" title="The KinectOneThreadController class Thred fuer den KinectOneController, uebrwacht den Treiber auf Sig..." alt="" coords="542,184,719,211"/>
 <area shape="rect" id="node4" href="$de/db5/class_date.html" title="The Date class is for simple date and time formats. " alt="" coords="295,5,345,32"/>
 </map>

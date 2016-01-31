@@ -30,7 +30,6 @@ var searchData=
   ['pixelwindowsize',['pixelWindowSize',['../d1/d04/class_stereo_matching.html#a4f9a12998059ca8b3789e11512ca0b03',1,'StereoMatching::pixelWindowSize()'],['../d1/d35/class_stereo_matching_window.html#aff1900f3cf2e7bc7bca444c8e131e40e',1,'StereoMatchingWindow::pixelWindowSize()'],['../dc/d15/class_v_a_r_advanced_dialog.html#a6712984aa2d823419f786c513e19893c',1,'VARAdvancedDialog::pixelWindowSize()']]],
   ['ply_5fdir',['PLY_DIR',['../d5/d0f/class_file_system.html#ace1808bcc35354d5f39b8cfd63804858',1,'FileSystem']]],
   ['ply_5ffile',['PLY_FILE',['../dd/d81/class_l_s_d_slam_u_i.html#a61bdfd39f11d9b7a2b726848198edacf',1,'LSDSlamUI']]],
-  ['ply_5ftype_5fsize',['ply_type_size',['../d4/dff/ply_8c.html#ab08112794dce33d6d5cc5fab4d33bf7c',1,'ply.c']]],
   ['plydir',['plyDir',['../d5/d0f/class_file_system.html#adfbbec4ca332d6986063db2f56d299b7',1,'FileSystem']]],
   ['point_5fcloud',['POINT_CLOUD',['../dd/d81/class_l_s_d_slam_u_i.html#a4aee6b6c93546b98a93f4d715ed30730',1,'LSDSlamUI']]],
   ['pointcloud',['pointcloud',['../d7/dc3/struct_pcd_info_container.html#a196e9a84844295a0522f2e3f3ba902c3',1,'PcdInfoContainer']]],

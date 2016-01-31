@@ -1,10 +1,10 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node2" href="$d1/df8/class_a_d_census_advanced_dialog.html" title="The ADCensusAdvancedDialog class represents the UI for the parameters of the AD&#45;Census matching algor..." alt="" coords="136,5,317,32"/>
-<area shape="rect" id="node3" href="$d6/d5c/class_b_m_advanced_dialog.html" title="The BMAdvancedDialog class represents the UI for the parameters of the Block Matching algorithm..." alt="" coords="158,56,295,83"/>
-<area shape="rect" id="node4" href="$d2/d39/class_camera_connect_dialog.html" title="The CameraConnectDialog class represents the UI for connecting a camera for the MultiCameraControl mo..." alt="" coords="149,107,304,133"/>
-<area shape="rect" id="node5" href="$d2/d1f/class_image_processing_settings_dialog.html" title="The ImageProcessingSettingsDialog class represents the UI for the image processing parameter settings..." alt="" coords="123,157,331,184"/>
-<area shape="rect" id="node6" href="$d0/db5/class_picture_selection_dialog.html" title="The PictureSelectionDialog class ist ein einfacher Auswahdialog fuer Bilder. " alt="" coords="149,208,304,235"/>
-<area shape="rect" id="node7" href="$d0/d3a/class_ransac_u_i.html" title="RansacUI This class contains the UI Logic and the Logic for the Shape Detection. " alt="" coords="186,259,267,285"/>
-<area shape="rect" id="node8" href="$d9/da5/class_s_g_b_m_advanced_dialog.html" title="The SGBMAdvancedDialog class represents the UI for the parameters of the Semi&#45;Global Block Matching a..." alt="" coords="149,309,305,336"/>
-<area shape="rect" id="node9" href="$dc/d15/class_v_a_r_advanced_dialog.html" title="The VARAdvancedDialog class represents the UI for the parameters of the Variational Matching algorith..." alt="" coords="154,360,299,387"/>
+<area shape="rect" id="node2" href="$d1/df8/class_a_d_census_advanced_dialog.html" title="The ADCensusAdvancedDialog class represents the UI for the parameters of the AD&#45;Census matching algor..." alt="" coords="137,5,313,32"/>
+<area shape="rect" id="node3" href="$d6/d5c/class_b_m_advanced_dialog.html" title="The BMAdvancedDialog class represents the UI for the parameters of the Block Matching algorithm..." alt="" coords="157,56,292,83"/>
+<area shape="rect" id="node4" href="$d2/d39/class_camera_connect_dialog.html" title="The CameraConnectDialog class represents the UI for connecting a camera for the MultiCameraControl mo..." alt="" coords="149,107,300,133"/>
+<area shape="rect" id="node5" href="$d2/d1f/class_image_processing_settings_dialog.html" title="The ImageProcessingSettingsDialog class represents the UI for the image processing parameter settings..." alt="" coords="121,157,328,184"/>
+<area shape="rect" id="node6" href="$d0/db5/class_picture_selection_dialog.html" title="The PictureSelectionDialog class ist ein einfacher Auswahdialog fuer Bilder. " alt="" coords="148,208,301,235"/>
+<area shape="rect" id="node7" href="$d0/d3a/class_ransac_u_i.html" title="RansacUI This class contains the UI Logic and the Logic for the Shape Detection. " alt="" coords="185,259,264,285"/>
+<area shape="rect" id="node8" href="$d9/da5/class_s_g_b_m_advanced_dialog.html" title="The SGBMAdvancedDialog class represents the UI for the parameters of the Semi&#45;Global Block Matching a..." alt="" coords="148,309,301,336"/>
+<area shape="rect" id="node9" href="$dc/d15/class_v_a_r_advanced_dialog.html" title="The VARAdvancedDialog class represents the UI for the parameters of the Variational Matching algorith..." alt="" coords="154,360,295,387"/>
 </map>

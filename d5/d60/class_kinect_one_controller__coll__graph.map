@@ -1,5 +1,5 @@
 <map id="KinectOneController" name="KinectOneController">
-<area shape="rect" id="node3" href="$d6/d70/class_log.html" title="The Log class Administrate all log outputs. " alt="" coords="267,96,309,123"/>
-<area shape="rect" id="node5" href="$d0/d9a/class_kinect_one_thread_controller.html" title="The KinectOneThreadController class Thred fuer den KinectOneController, uebrwacht den Treiber auf Sig..." alt="" coords="100,187,279,213"/>
-<area shape="rect" id="node4" href="$de/db5/class_date.html" title="The Date class is for simple date and time formats. " alt="" coords="263,5,313,32"/>
+<area shape="rect" id="node3" href="$d6/d70/class_log.html" title="The Log class Administrate all log outputs. " alt="" coords="266,95,309,121"/>
+<area shape="rect" id="node5" href="$d0/d9a/class_kinect_one_thread_controller.html" title="The KinectOneThreadController class Thred fuer den KinectOneController, uebrwacht den Treiber auf Sig..." alt="" coords="100,184,277,211"/>
+<area shape="rect" id="node4" href="$de/db5/class_date.html" title="The Date class is for simple date and time formats. " alt="" coords="263,5,312,32"/>
 </map>

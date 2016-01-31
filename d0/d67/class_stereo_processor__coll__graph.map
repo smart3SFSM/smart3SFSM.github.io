@@ -1,5 +1,5 @@
 <map id="StereoProcessor" name="StereoProcessor">
-<area shape="rect" id="node3" href="$d5/d71/class_disparity_refinement.html" title="The DisparityRefinement class encapsulates several algorithms to refine the computed disparity map..." alt="" coords="99,5,239,32"/>
-<area shape="rect" id="node5" href="$d6/d19/class_aggregation.html" title="The Aggregation class computes the cost aggregation for the AD&#45;Census stereo matching algorithm..." alt="" coords="344,5,435,32"/>
-<area shape="rect" id="node6" href="$d6/dc9/class_a_d_census_c_v.html" title="The ADCensusCV class encapsulates the AD and Census matching cost computations. " alt="" coords="459,5,564,32"/>
+<area shape="rect" id="node3" href="$d5/d71/class_disparity_refinement.html" title="The DisparityRefinement class encapsulates several algorithms to refine the computed disparity map..." alt="" coords="101,5,239,32"/>
+<area shape="rect" id="node5" href="$d6/d19/class_aggregation.html" title="The Aggregation class computes the cost aggregation for the AD&#45;Census stereo matching algorithm..." alt="" coords="343,5,434,32"/>
+<area shape="rect" id="node6" href="$d6/dc9/class_a_d_census_c_v.html" title="The ADCensusCV class encapsulates the AD and Census matching cost computations. " alt="" coords="459,5,561,32"/>
 </map>

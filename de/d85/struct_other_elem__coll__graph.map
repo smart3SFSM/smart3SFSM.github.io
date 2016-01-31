@@ -1,5 +1,5 @@
 <map id="OtherElem" name="OtherElem">
-<area shape="rect" id="node2" href="$d9/d3d/struct_other_data.html" title="OtherData Struct rfor storing other_props for an other element. " alt="" coords="4,96,85,123"/>
-<area shape="rect" id="node3" href="$d9/d12/struct_ply_other_prop.html" title="PlyOtherProp Struct describes other properties in an element. " alt="" coords="110,96,209,123"/>
-<area shape="rect" id="node4" href="$d4/d65/struct_ply_property.html" title="PlyProperty Struct for an description of a property. " alt="" coords="115,5,205,32"/>
+<area shape="rect" id="node2" href="$d9/d3d/struct_other_data.html" title="OtherData Struct rfor storing other_props for an other element. " alt="" coords="5,95,87,121"/>
+<area shape="rect" id="node3" href="$d9/d12/struct_ply_other_prop.html" title="PlyOtherProp Struct describes other properties in an element. " alt="" coords="111,95,211,121"/>
+<area shape="rect" id="node4" href="$d4/d65/struct_ply_property.html" title="PlyProperty Struct for an description of a property. " alt="" coords="115,5,206,32"/>
 </map>

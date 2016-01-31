@@ -1,9 +1,0 @@
-<map id="smart3SFSM/Workflow/Kinect1/kinect1topc.h" name="smart3SFSM/Workflow/Kinect1/kinect1topc.h">
-<area shape="rect" id="node12" href="$dd/dd8/filesystem_8h.html" title="System/FileIO/filesystem.h" alt="" coords="1259,104,1440,131"/>
-<area shape="rect" id="node21" href="$db/d96/date_8h.html" title="Application/utilities\l/date.h" alt="" coords="1017,187,1147,229"/>
-<area shape="rect" id="node24" href="$d7/d7f/log_8h.html" title="Application/Log/log.h" alt="" coords="799,277,941,304"/>
-<area shape="rect" id="node28" href="$dc/d74/fileio_8h.html" title="System/FileIO/fileio.h" alt="" coords="1331,352,1479,379"/>
-<area shape="rect" id="node34" href="$de/d43/kinectonecontroller_8h.html" title="Controller/Kinect1\l/kinectonecontroller.h" alt="" coords="508,97,655,138"/>
-<area shape="rect" id="node32" href="$dc/d2c/systemenvironment_8h.html" title="System/SystemCalls\l/systemenvironment.h" alt="" coords="1274,187,1424,229"/>
-<area shape="rect" id="node37" href="$d8/d98/kinectonethreadcontroller_8h.html" title="Controller/Kinect1\l/kinectonethreadcontroller.h" alt="" coords="323,187,505,229"/>
-</map>

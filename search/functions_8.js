@@ -8,7 +8,6 @@ var searchData=
   ['imageprocessor',['ImageProcessor',['../de/d7d/class_image_processor.html#a82a76443983c4c1fb01f9d21306ee4f9',1,'ImageProcessor']]],
   ['init',['init',['../d8/d4f/class_kinect_one_controller.html#a73199c25c676677d872ecf2fe3786fe0',1,'KinectOneController::init()'],['../d3/dc3/class_stereo_processor.html#af58b416c3e1f7a8eb9861933ae69ad89',1,'StereoProcessor::init()'],['../de/d10/class_camera_calibration_i_o.html#a1476fa61359dc25ea792271e23d0f06d',1,'CameraCalibrationIO::init()']]],
   ['init_5fgl',['init_gl',['../de/d5e/classkinect__slam_1_1_c_u_i_module.html#abb64e2c4a1e9989e8a4598fef90470e9',1,'kinect_slam::CUIModule']]],
-  ['init_5frule_5fply',['init_rule_ply',['../d4/dff/ply_8c.html#af44892b467f9bf2326e016fa62b64e3e',1,'init_rule_ply(PlyFile *ply, char *elem_name):&#160;ply.c'],['../d9/d23/ply_8h.html#aa1e766e65c97022b7446408a43a0ada4',1,'init_rule_ply(PlyFile *, char *):&#160;ply.c']]],
   ['initadcensus',['initADCensus',['../d1/d04/class_stereo_matching.html#a5b9c028205db69083158f53ee7ba23c7',1,'StereoMatching']]],
   ['initbm',['initBM',['../d1/d04/class_stereo_matching.html#a658568c9bb32d29afe927a9341117c1b',1,'StereoMatching']]],
   ['initconnection',['initConnection',['../d8/dab/class_q_g_l_kinect_widget.html#ae732324702a46f72d3d8e010725b24b7',1,'QGLKinectWidget']]],

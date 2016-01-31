@@ -8,7 +8,6 @@ var searchData=
   ['octreecompression',['OctreeCompression',['../dc/d9c/class_registration_algos.html#ab6df5f5bfc6b04ec263c8a6cc4f63571',1,'RegistrationAlgos::OctreeCompression()'],['../d7/d4d/class_registration_ui.html#ab98657ef78ba7d3383952cab95354bd7',1,'RegistrationUi::OctreeCompression()']]],
   ['ocv',['OCV',['../d6/dde/structcalibration_type.html#ab33b2ce211d82f85738acb4c234f30bda80c6a3941e952c74a77b5231c9e211f1',1,'calibrationType']]],
   ['offset',['offset',['../d4/d65/struct_ply_property.html#aeedc40380a29a69699ce401f4cb7aa3f',1,'PlyProperty']]],
-  ['old_5ftype_5fnames',['old_type_names',['../d4/dff/ply_8c.html#ac2fdc6c03870284826e8dd57937242db',1,'ply.c']]],
   ['on_5faddpicturebutton_5fclicked',['on_addPictureButton_clicked',['../d0/db5/class_picture_selection_dialog.html#aed60b40a87429756ffb82465ddfc51a3',1,'PictureSelectionDialog']]],
   ['on_5faddpictureseriesbutton_5fclicked',['on_addPictureSeriesButton_clicked',['../d0/db5/class_picture_selection_dialog.html#ab8d8c5a3d669f72ce2d838a605b47738',1,'PictureSelectionDialog']]],
   ['on_5fallimagesbutton_5fclicked',['on_allImagesButton_clicked',['../d0/db5/class_picture_selection_dialog.html#a4e05e84f62fc66b524f38e96832d74f4',1,'PictureSelectionDialog']]],
@@ -61,7 +60,6 @@ var searchData=
   ['on_5fstartbutton_5fclicked',['on_startButton_clicked',['../dd/dde/class_kinect_window.html#add04061008563297319fe800f4baa664',1,'KinectWindow']]],
   ['on_5fstartkinectslambutton_5fclicked',['on_startKinectSLAMButton_clicked',['../d9/dc6/class_main_window.html#a3043f3541c8b1f17587abf1cc022a2e3',1,'MainWindow']]],
   ['onmousemoveevent',['onMouseMoveEvent',['../d0/d16/class_frame_label.html#abc3c8d443a53cfe1f916fdb039b9b808',1,'FrameLabel']]],
-  ['open_5ffor_5fwriting_5fply',['open_for_writing_ply',['../d4/dff/ply_8c.html#a8f04e157c527fbd5d9251b21de3598e5',1,'open_for_writing_ply(char *filename, int nelems, char **elem_names, int file_type):&#160;ply.c'],['../d9/d23/ply_8h.html#ab039a91f178eda621a30ad100cd454f2',1,'open_for_writing_ply(char *, int, char **, int):&#160;ply.c']]],
   ['openpcdfile',['OpenPcdFile',['../d7/d4d/class_registration_ui.html#ae26590f807cb4c77854a400622d9cef8',1,'RegistrationUi']]],
   ['openselectpictures',['openSelectPictures',['../dc/da9/class_main_window_camera.html#a41aef3589b72e6278a20de7df2b7e0e3',1,'MainWindowCamera']]],
   ['operate',['operate',['../d0/d2e/class_kinect1_to_p_c.html#acff19d840af25040e90f66d46f341d2e',1,'Kinect1ToPC']]],
@@ -73,13 +71,10 @@ var searchData=
   ['other_5felems',['other_elems',['../dd/db3/struct_ply_file.html#aceb5a35f93d4ab5df12713e1b62e838b',1,'PlyFile']]],
   ['other_5flist',['other_list',['../d1/d27/struct_ply_other_elems.html#a2a3390c0b6de21756b10ae550c66de8a',1,'PlyOtherElems']]],
   ['other_5foffset',['other_offset',['../d4/df0/struct_ply_element.html#a3711e7f51c082da6639ac3239ee2444a',1,'PlyElement']]],
-  ['other_5fprop',['OTHER_PROP',['../d4/dff/ply_8c.html#a266f6a423da93b965380d853bc90524b',1,'ply.c']]],
   ['other_5fprops',['other_props',['../d9/d3d/struct_other_data.html#a21c6a90664f23db87f2e8a91c87b1ac1',1,'OtherData::other_props()'],['../db/de2/struct_other_elem.html#aa800ba93c6711ef9da7be0d3cf032263',1,'OtherElem::other_props()']]],
   ['other_5fsize',['other_size',['../d4/df0/struct_ply_element.html#a4ec699438f485c7ecca7cb7d623e4e74',1,'PlyElement']]],
-  ['otherdata',['OtherData',['../d9/d3d/struct_other_data.html',1,'OtherData'],['../d9/d23/ply_8h.html#a1cc6599c8b68324ea850c1140a50ec6a',1,'OtherData():&#160;ply.h']]],
-  ['otherelem',['OtherElem',['../db/de2/struct_other_elem.html',1,'OtherElem'],['../d9/d23/ply_8h.html#a2821fbf3186570a510157c597d1ae12a',1,'OtherElem():&#160;ply.h']]],
+  ['otherdata',['OtherData',['../d9/d3d/struct_other_data.html',1,'']]],
+  ['otherelem',['OtherElem',['../db/de2/struct_other_elem.html',1,'']]],
   ['outlierelimination',['outlierElimination',['../d5/d71/class_disparity_refinement.html#aca2d56df12d98fc4746b80eec55c404a',1,'DisparityRefinement::outlierElimination()'],['../d3/dc3/class_stereo_processor.html#a8d2f9f583ddeb2211d00719318108887',1,'StereoProcessor::outlierElimination()']]],
-  ['owndoublespinbox',['ownDoubleSpinBox',['../d6/df4/classown_double_spin_box.html',1,'ownDoubleSpinBox'],['../d6/df4/classown_double_spin_box.html#a773f38525193eae924e67473b117f8bc',1,'ownDoubleSpinBox::ownDoubleSpinBox()'],['../d6/df4/classown_double_spin_box.html#adc3a398946b001bfb139aad7448920c3',1,'ownDoubleSpinBox::ownDoubleSpinBox(QWidget *)']]],
-  ['owndoublespinbox_2ecpp',['owndoublespinbox.cpp',['../d5/daa/owndoublespinbox_8cpp.html',1,'']]],
-  ['owndoublespinbox_2eh',['owndoublespinbox.h',['../d4/dfb/owndoublespinbox_8h.html',1,'']]]
+  ['owndoublespinbox',['ownDoubleSpinBox',['../d6/df4/classown_double_spin_box.html',1,'ownDoubleSpinBox'],['../d6/df4/classown_double_spin_box.html#a773f38525193eae924e67473b117f8bc',1,'ownDoubleSpinBox::ownDoubleSpinBox()'],['../d6/df4/classown_double_spin_box.html#adc3a398946b001bfb139aad7448920c3',1,'ownDoubleSpinBox::ownDoubleSpinBox(QWidget *)']]]
 ];

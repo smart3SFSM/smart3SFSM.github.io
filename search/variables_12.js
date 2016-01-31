@@ -23,6 +23,5 @@ var searchData=
   ['triangulafactorp1',['triangulaFactorP1',['../de/d10/class_camera_calibration_i_o.html#a407b1e97c971c30f285d65f630252c80',1,'CameraCalibrationIO']]],
   ['triangulafactorp2',['triangulaFactorP2',['../de/d10/class_camera_calibration_i_o.html#ad0c42f40f2f90bbf7cee0171ee3a1c71',1,'CameraCalibrationIO']]],
   ['tty',['tty',['../d8/dd3/struct_processes_1_1proc.html#ad56aae51d4dfb125ec979014ec19e167',1,'Processes::proc']]],
-  ['type_5fnames',['type_names',['../d4/dff/ply_8c.html#a8b2ca237852bf06147428eda89690f09',1,'ply.c']]],
   ['typeofthemultigridcycle',['typeOfTheMultigridCycle',['../d1/d04/class_stereo_matching.html#a3e43f2f4e912d2e3fec1842eb7b493f1',1,'StereoMatching::typeOfTheMultigridCycle()'],['../d1/d35/class_stereo_matching_window.html#a150a8f481d17cf93272634e2a697db71',1,'StereoMatchingWindow::typeOfTheMultigridCycle()'],['../dc/d15/class_v_a_r_advanced_dialog.html#afbfa86fd09dc4fc373e009d1899f8859',1,'VARAdvancedDialog::typeOfTheMultigridCycle()']]]
 ];

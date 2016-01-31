@@ -1,9 +1,0 @@
-<map id="smart3SFSM/StereoVision/ADCensus/ADCensus.h" name="smart3SFSM/StereoVision/ADCensus/ADCensus.h">
-<area shape="rect" id="node14" href="$d9/d1c/_stereo_processor_8h.html" title="StereoProcessor.h" alt="" coords="746,96,875,123"/>
-<area shape="rect" id="node21" href="$d5/dca/_image_processor_8h.html" title="ImageProcessor.h" alt="" coords="1294,171,1422,197"/>
-<area shape="rect" id="node16" href="$d2/d06/_a_d_census_c_v_8h.html" title="ADCensusCV.h" alt="" coords="1153,171,1268,197"/>
-<area shape="rect" id="node17" href="$d6/d58/_aggregation_8h.html" title="Aggregation.h" alt="" coords="849,171,951,197"/>
-<area shape="rect" id="node18" href="$db/d1f/_common_8h.html" title="Common.h" alt="" coords="857,245,943,272"/>
-<area shape="rect" id="node19" href="$db/da8/_scanline_optimization_8h.html" title="ScanlineOptimization.h" alt="" coords="566,171,722,197"/>
-<area shape="rect" id="node20" href="$df/d5b/_disparity_refinement_8h.html" title="DisparityRefinement.h" alt="" coords="976,171,1128,197"/>
-</map>

@@ -43,6 +43,5 @@ var searchData=
   ['ros_5frosrun',['ROS_ROSRUN',['../d5/de9/class_r_o_s.html#ae2d7d1cef7519cf0d3b1de2b82caff01',1,'ROS']]],
   ['ros_5fserver',['ROS_SERVER',['../d5/de9/class_r_o_s.html#a9bc0ccfbb15d900929483fad778fb9ce',1,'ROS']]],
   ['rotangles',['rotangles',['../de/d5e/classkinect__slam_1_1_c_u_i_module.html#ae97644e57b1aeef44fa7c9dc71a5278c',1,'kinect_slam::CUIModule']]],
-  ['rule_5flist',['rule_list',['../dc/df0/struct_ply_prop_rules.html#a54a21f9c73d1d38270399c9ced0195b0',1,'PlyPropRules::rule_list()'],['../dd/db3/struct_ply_file.html#a0d2e8894a83e75be4e5d89334362674e',1,'PlyFile::rule_list()']]],
-  ['rule_5fname_5flist',['rule_name_list',['../d4/dff/ply_8c.html#a314c82e9bd943b5bf2ac4e54eb401f86',1,'ply.c']]]
+  ['rule_5flist',['rule_list',['../dc/df0/struct_ply_prop_rules.html#a54a21f9c73d1d38270399c9ced0195b0',1,'PlyPropRules::rule_list()'],['../dd/db3/struct_ply_file.html#a0d2e8894a83e75be4e5d89334362674e',1,'PlyFile::rule_list()']]]
 ];

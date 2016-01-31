@@ -23,8 +23,6 @@ var searchData=
   ['leftlimits',['leftLimits',['../d6/d19/class_aggregation.html#a6596f0a22967f623ddaf23805fafa32a',1,'Aggregation']]],
   ['lf',['lf',['../d6/d70/class_log.html#a6c987f6154508db37084603659e1f746',1,'Log']]],
   ['libvideo',['LibVideo',['../d0/d4a/class_lib_video.html',1,'LibVideo'],['../d0/d4a/class_lib_video.html#a2bb3e9dbbfe0fd93fc1f29645dd940ed',1,'LibVideo::LibVideo()']]],
-  ['libvideo_2ecpp',['libVideo.cpp',['../d5/db8/lib_video_8cpp.html',1,'']]],
-  ['libvideo_2eh',['libVideo.h',['../d2/dd4/lib_video_8h.html',1,'']]],
   ['list_5fimages',['list_images',['../d0/db5/class_picture_selection_dialog.html#a44697fbee2e6ac29206d5c78d50a96d1',1,'PictureSelectionDialog']]],
   ['live_5fslam',['LIVE_SLAM',['../dd/d81/class_l_s_d_slam_u_i.html#af917dad83ebdd181f6b0d96281267e21',1,'LSDSlamUI']]],
   ['loadallpictures',['loadAllPictures',['../d0/db5/class_picture_selection_dialog.html#ac6ef72de81ce8bbcca784220940728d8',1,'PictureSelectionDialog']]],
@@ -45,8 +43,6 @@ var searchData=
   ['loadrightimage',['loadRightImage',['../d1/d35/class_stereo_matching_window.html#af934e91463d633a05ed2f1fefb253b20',1,'StereoMatchingWindow']]],
   ['loadvideostream',['loadVideoStream',['../d6/da7/class_camerea_calibration_u_i.html#a517b1e430b225d321351d670ae21ff22',1,'CamereaCalibrationUI']]],
   ['log',['Log',['../d6/d70/class_log.html',1,'Log'],['../d0/d9a/class_kinect_one_thread_controller.html#a455d681ab3f4eb60bc9245748992a18f',1,'KinectOneThreadController::log()'],['../d9/dc6/class_main_window.html#af3e61f3cc4c3e2308df85286b4970857',1,'MainWindow::log()'],['../d5/d0f/class_file_system.html#a37235372fb4a9449c235440f97657177',1,'FileSystem::log()'],['../d6/da7/class_camerea_calibration_u_i.html#acf55faa726827ede1cc8b74d96e0a5be',1,'CamereaCalibrationUI::log()'],['../db/d92/class_converter.html#ad96e8105ccbba4b4f3dc69aca554ad5f',1,'Converter::log()'],['../dd/dde/class_kinect_window.html#a5621f03807573077fb716f0c43ac1531',1,'KinectWindow::log()'],['../d8/dab/class_q_g_l_kinect_widget.html#aabeeda33b886656aa3331d98e6d1684a',1,'QGLKinectWidget::log()'],['../d0/db5/class_picture_selection_dialog.html#a1c87dacf6187874f7d9cb74e37636d86',1,'PictureSelectionDialog::log()'],['../dd/d81/class_l_s_d_slam_u_i.html#ab3e53308c1ebb09ab3dd06bb76e9bdfa',1,'LSDSlamUI::log()'],['../de/de6/class_stereo_calibration_window.html#a86f6154432d05986b800a19e7742ec8f',1,'StereoCalibrationWindow::log()'],['../d1/d35/class_stereo_matching_window.html#a1a1bbc5bed16fa55b1ceab4cd8367e7b',1,'StereoMatchingWindow::log()'],['../d5/d7f/class_kinect1_to_p_c_d_worker.html#a79f14eb327ba8cb71123e2abd010fafe',1,'Kinect1ToPCDWorker::log()'],['../d0/d2e/class_kinect1_to_p_c.html#a44618cbb6b9a85ba85ae470eca5f1a90',1,'Kinect1ToPC::log()'],['../de/d5e/classkinect__slam_1_1_c_u_i_module.html#a505d893260b971e8defd6bc4fa2de79b',1,'kinect_slam::CUIModule::log()'],['../d0/d3a/class_ransac_u_i.html#a1b0e7b135ab28c8411a21ee9f9257040',1,'RansacUI::log()'],['../d8/d4f/class_kinect_one_controller.html#ae63f1e83df714746dcd057bb850f01fd',1,'KinectOneController::log()'],['../d6/d70/class_log.html#a6c6be742c7f583c1b80f29e3cfeff97b',1,'Log::Log()']]],
-  ['log_2ecpp',['log.cpp',['../d9/db8/log_8cpp.html',1,'']]],
-  ['log_2eh',['log.h',['../d7/d7f/log_8h.html',1,'']]],
   ['log_5fdir',['LOG_DIR',['../d5/d0f/class_file_system.html#a192ea238b5ca318035bac63d21ed3011',1,'FileSystem']]],
   ['log_5ffile_5fname',['LOG_FILE_NAME',['../d9/d3f/class_file_i_o.html#a1c2abc9fea03c079694e0e42ae13a526',1,'FileIO']]],
   ['log_5ftype',['LOG_TYPE',['../d9/d3f/class_file_i_o.html#a2b4d1591b8d003764710a2302e1677eb',1,'FileIO']]],
@@ -83,12 +79,6 @@ var searchData=
   ['lsd_5fslam_5ftemp_5ffile',['LSD_SLAM_TEMP_FILE',['../dd/d81/class_l_s_d_slam_u_i.html#a3e1cd20040931d58d9dde3da13746f48',1,'LSDSlamUI']]],
   ['lsd_5fslam_5fviewer_5fpath',['LSD_SLAM_VIEWER_PATH',['../dd/d81/class_l_s_d_slam_u_i.html#ae37e79a8220cfc3fa8b5c47e3d4703f5',1,'LSDSlamUI']]],
   ['lsdslamconfigspinner',['LsdSlamConfigSpinner',['../d7/dc2/class_lsd_slam_config_spinner.html',1,'LsdSlamConfigSpinner'],['../d7/dc2/class_lsd_slam_config_spinner.html#a87e52bf052358e2b4ddd9b13ab079986',1,'LsdSlamConfigSpinner::LsdSlamConfigSpinner()']]],
-  ['lsdslamconfigspinner_2ecpp',['lsdslamconfigspinner.cpp',['../db/dde/lsdslamconfigspinner_8cpp.html',1,'']]],
-  ['lsdslamconfigspinner_2eh',['lsdslamconfigspinner.h',['../db/d87/lsdslamconfigspinner_8h.html',1,'']]],
   ['lsdslamconfigwidget',['lsdSlamConfigWidget',['../dc/d2a/classlsd_slam_config_widget.html',1,'lsdSlamConfigWidget'],['../dc/d2a/classlsd_slam_config_widget.html#a707671e2af1c96da80e4490c5796db89',1,'lsdSlamConfigWidget::lsdSlamConfigWidget()']]],
-  ['lsdslamconfigwidget_2ecpp',['lsdslamconfigwidget.cpp',['../d4/d42/lsdslamconfigwidget_8cpp.html',1,'']]],
-  ['lsdslamconfigwidget_2eh',['lsdslamconfigwidget.h',['../d3/dd5/lsdslamconfigwidget_8h.html',1,'']]],
-  ['lsdslamui',['LSDSlamUI',['../dd/d81/class_l_s_d_slam_u_i.html',1,'LSDSlamUI'],['../dd/d81/class_l_s_d_slam_u_i.html#ae35befbdf97d958d3bfb707e06ee41f5',1,'LSDSlamUI::LSDSlamUI()']]],
-  ['lsdslamui_2ecpp',['lsdslamui.cpp',['../d3/ded/lsdslamui_8cpp.html',1,'']]],
-  ['lsdslamui_2eh',['lsdslamui.h',['../da/df6/lsdslamui_8h.html',1,'']]]
+  ['lsdslamui',['LSDSlamUI',['../dd/d81/class_l_s_d_slam_u_i.html',1,'LSDSlamUI'],['../dd/d81/class_l_s_d_slam_u_i.html#ae35befbdf97d958d3bfb707e06ee41f5',1,'LSDSlamUI::LSDSlamUI()']]]
 ];

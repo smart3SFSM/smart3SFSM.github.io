@@ -1,7 +1,7 @@
 <map id="Kinect1ToPC" name="Kinect1ToPC">
-<area shape="rect" id="node5" href="$d5/d7f/class_kinect1_to_p_c_d_worker.html" title="The Kinect1ToPCDWorker class Der Thred in dem alle Berechnungen zum Erstellen einer Pointcloud aus Da..." alt="" coords="41,368,193,395"/>
-<area shape="rect" id="node6" href="$d8/d4f/class_kinect_one_controller.html" title="The KinectOneController class is a wrapper for the Kinect 1 funktions It uses the libfreenect library..." alt="" coords="155,277,293,304"/>
-<area shape="rect" id="node3" href="$d6/d70/class_log.html" title="The Log class Administrate all log outputs. " alt="" coords="207,96,249,123"/>
-<area shape="rect" id="node7" href="$d0/d9a/class_kinect_one_thread_controller.html" title="The KinectOneThreadController class Thred fuer den KinectOneController, uebrwacht den Treiber auf Sig..." alt="" coords="243,187,421,213"/>
-<area shape="rect" id="node4" href="$de/db5/class_date.html" title="The Date class is for simple date and time formats. " alt="" coords="203,5,253,32"/>
+<area shape="rect" id="node5" href="$d5/d7f/class_kinect1_to_p_c_d_worker.html" title="The Kinect1ToPCDWorker class Der Thred in dem alle Berechnungen zum Erstellen einer Pointcloud aus Da..." alt="" coords="43,363,193,389"/>
+<area shape="rect" id="node6" href="$d8/d4f/class_kinect_one_controller.html" title="The KinectOneController class is a wrapper for the Kinect 1 funktions It uses the libfreenect library..." alt="" coords="155,273,294,300"/>
+<area shape="rect" id="node3" href="$d6/d70/class_log.html" title="The Log class Administrate all log outputs. " alt="" coords="207,95,250,121"/>
+<area shape="rect" id="node7" href="$d0/d9a/class_kinect_one_thread_controller.html" title="The KinectOneThreadController class Thred fuer den KinectOneController, uebrwacht den Treiber auf Sig..." alt="" coords="244,184,421,211"/>
+<area shape="rect" id="node4" href="$de/db5/class_date.html" title="The Date class is for simple date and time formats. " alt="" coords="204,5,253,32"/>
 </map>

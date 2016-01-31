@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['icpvariant',['IcpVariant',['../d2/d60/registrationalgos_8h.html#a2c3d1971d87c1601d3a804f89322d347',1,'registrationalgos.h']]]
+  ['type',['Type',['../d6/dde/structcalibration_type.html#ab33b2ce211d82f85738acb4c234f30bd',1,'calibrationType']]]
 ];
